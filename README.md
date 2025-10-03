@@ -12,7 +12,7 @@ overlaps and applies **maximum-weight matching** to optimally assign pairs.
 
 ## Example
 This graph shows every potential connection between participants, with edge weights representing compatibility.
-![all pairings](pairings-graph.png)
+![all pairings](parings-graph.png)
 
 After running the algorithm, we retrieve the optimal pairings, with matched pairs highlighted in blue:
 ![example graph](optimal-pairings-graph.png)
